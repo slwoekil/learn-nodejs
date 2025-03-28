@@ -4,7 +4,9 @@
   "main": "index.js",
   "bin": {
     "date-helper": "./002-console/date-helper.js",
-    "guess-the-number": "./002-console/guess-the-number.js"
+    "guess-the-number": "./002-console/guess-the-number.js",
+    "heads-or-tails": "./004-stream/heads-or-tails.js",
+    "game-analyzer": "./004-stream/game-analyzer.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
